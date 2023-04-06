@@ -1,0 +1,219 @@
+.body {
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.header {
+    background-repeat: no-repeat;
+    background-image: url(images/donation4.jpg);
+    height: 669px;
+    width: 1400px;
+
+}
+
+.header div {
+    color: white;
+    text-align: center;
+    padding: 140px;
+}
+
+.header div h1 {
+    font-size: 80px;
+    margin: 10px 60px 0px 60px;
+    padding: 10px;
+}
+
+.header div p {
+    font-size: 18px;
+    padding-bottom: 30px;
+    padding: 10px 250px 30px 250px;
+}
+
+.donate-btn {
+    text-decoration: none;
+    background-color: rgba(199, 84, 17, 0.87);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    font-size: 30px;
+}
+
+.donate-today {
+    text-align: center;
+    margin: 0px 100px 20px 100px;
+    padding: 0px 50px 20px 50px;
+}
+
+.donate-today h1 {
+    font-size: 50px;
+}
+
+.donate-today p {
+    padding: 5px 200px 5px 200px;
+    font-size: 18px;
+}
+
+.amount {
+    display: flex;
+    margin: 10px 70px 10px 70px;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.amount-tk {
+    margin: 0px 10px 0px 10px;
+    background-color: rgb(224, 220, 220);
+    padding: 20px 30px 20px 30px;
+}
+
+.other-amount {
+    text-align: center;
+}
+
+.other-amount h4 {
+    margin: 20px;
+    padding: 40px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin: 50px;
+    padding: 20px 100px 20px 100px;
+}
+
+.donate-plan h1 {
+    font-size: 50px;
+}
+
+.donate-plan-p {
+    font-size: 18px;
+    padding: 0px 150px 50px 150px;
+}
+
+.icons {
+    display: flex;
+}
+
+.icon-part1 {
+    margin: 20px;
+    background-color: rgb(191, 228, 180);
+    padding: 50px 20px 50px 20px;
+    text-align: left;
+}
+
+.icon-part2 {
+    margin: 20px;
+    background-color: rgb(243, 222, 195);
+    padding: 50px 20px 50px 20px;
+    text-align: left;
+}
+
+.icon-part3 {
+    margin: 20px;
+    background-color: rgb(213, 235, 133);
+    padding: 50px 20px 50px 20px;
+    text-align: left;
+}
+
+.donation {
+    margin: 30px 100px 30px 100px;
+}
+
+.donation-p1 {
+    margin: 10px;
+    padding-right: 30px;
+}
+
+.donation-p2 {
+    margin: 10px;
+    padding-left: 50px;
+}
+
+.first-donation {
+    display: flex;
+    padding: 50px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+.first-donation h1 {
+    font-size: 50px;
+}
+
+.first-donation p {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.second-donattion {
+    display: flex;
+    padding: 50px;
+    background-color: rgb(191, 228, 180);
+    border-radius: 15px;
+}
+
+.second-donattion h1 {
+    font-size: 50px;
+}
+
+.second-donattion p {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.Conntribute-btn {
+    text-decoration: none;
+    background-color: rgba(199, 84, 17, 0.87);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    font-size: 30px;
+}
+
+.image {
+    width: 456px;
+    height: 477px;
+    border-radius: 10px;
+}
+
+.Updates {
+    text-align: center;
+    font-size: 50px;
+}
+
+.Updates p {
+    font-size: 18px;
+    margin: 0px 150px 5px 150px;
+    padding: 0px 200px 0px 200px;
+}
+
+.emali-input {
+    min-height: 150px;
+    width: 700px;
+    margin-left: 350px;
+    margin-top: 110px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    padding-top: 50px;
+}
+
+.footer {
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    color: rgb(194, 191, 191);
+    background-color: black;
+}
+
+.footer h1 {
+    color: brown;
+    font-style: italic;
+}
